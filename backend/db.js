@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const url="mongodb+srv://yashgaur:Webyashudodo321@cluster0.zvaxwtk.mongodb.net/stack-overflow-clone?retryWrites=true&w=majority";
+const url="";
 
 module.exports.connect = () => {
     mongoose
